@@ -1,2 +1,2 @@
 # Task1-
-i was provided with a task at the beginning of learning web development
+building up portfolio using html which includes multimedia beginner 
